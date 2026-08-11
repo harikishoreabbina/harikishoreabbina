@@ -105,13 +105,13 @@
 <br/>
 
 **[Data_Engineer_Prep](https://github.com/harikishoreabbina/Data_Engineer_Prep)**
-Short description — e.g. "Collection of data engineering concepts, SQL/PySpark practice problems, and pipeline design exercises." `Python` `SQL` `PySpark`
+Short description —  "Collection of data engineering concepts, SQL/PySpark practice problems, and pipeline design exercises." `Python` `SQL` `PySpark`
 
 **[Stock_analysis](https://github.com/harikishoreabbina/Stock_analysis)**
-Short description — e.g. "Data pipeline and analysis project pulling stock market data, transforming it, and visualizing trends." `Python` `Pandas` `Matplotlib`
+Short description —  "Data pipeline and analysis project pulling stock market data, transforming it, and visualizing trends." `Python` `Pandas` `Matplotlib`
 
 **[cassandra_assaignment](https://github.com/harikishoreabbina/cassandra_assaignment)**
-Short description — e.g. "Hands-on project modeling and querying data using Apache Cassandra's distributed NoSQL architecture." `Cassandra` `NoSQL` `Data Modeling`
+Short description —  "Hands-on project modeling and querying data using Apache Cassandra's distributed NoSQL architecture." `Cassandra` `NoSQL` `Data Modeling`
 
 </details>
 
