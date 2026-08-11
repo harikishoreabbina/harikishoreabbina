@@ -139,14 +139,6 @@ Short description — e.g. "Hands-on project modeling and querying data using Ap
 
 ---
 
-### 🏆 GitHub Trophies
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=harikishoreabbina&theme=tokyonight&no-frame=true&row=1&column=7" />
-</div>
-
----
-
 ### 🐍 Contribution Snake
 
 <div align="center">
