@@ -101,7 +101,7 @@
 </div>
 
 <details>
-<summary><b>📁 Project descriptions (click to expand, then edit to match what each repo actually does)</b></summary>
+<summary><b>📁 Project descriptions (Click to Expand)</b></summary>
 <br/>
 
 **[Data_Engineer_Prep](https://github.com/harikishoreabbina/Data_Engineer_Prep)**
@@ -115,7 +115,6 @@ Short description — e.g. "Hands-on project modeling and querying data using Ap
 
 </details>
 
-> ✏️ Swap in your own one-line descriptions above — recruiters skim these fast, so lead with the *impact or skill demonstrated*, not just what the repo contains.
 
 ---
 
