@@ -1,5 +1,5 @@
 # 💫 About Me:
-Data Engineer with hands-on experience in building scalable data pipelines and data solutions.<br>Skilled in Python, SQL, PySpark, Snowflake, Airflow, dbt, and data modeling.<br>Currently strengthening my expertise in Databricks, including Spark, Delta Lake, Lakehouse architecture, and data engineering workflows.<br>Currently learning AI/ML and exploring how it can be integrated with modern data platforms.<br>Interested in Data Engineering, Databricks, AI/ML, automation, and building reliable data products.<br>Always learning, experimenting, and improving my technical skills.<br><br>Motto: If you're afraid don't do it. If you're doing it don't be afraid!
+Data Engineer with hands-on experience in building scalable data pipelines and data solutions.<br>Skilled in Python, SQL, PySpark, Snowflake, Airflow, dbt, and data modeling.<br>Currently strengthening my expertise in Databricks, including Spark, Delta Lake, Lakehouse architecture, and data engineering workflows.<br>Currently learning AI/ML and exploring how it can be integrated with modern data platforms.<br>Interested in Data Engineering, Databricks, AI/ML, automation, and building reliable data products.<br>Always learning, experimenting, and improving my technical skills.<br><br>Motto: If you're afraid, don't do it. If you're doing it - don't be afraid!
 
 
 # 💻 Tech Stack:
