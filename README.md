@@ -5,7 +5,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Hi+%F0%9F%91%8B%2C+I'm+Hari;Data+Engineer;Building+Scalable+Data+Pipelines;Databricks+%7C+Spark+%7C+Snowflake+%7C+Airflow;Exploring+AI%2FML+for+Data+Platforms" alt="Typing SVG" />
 </a>
 
-<img src="https://komarev.com/ghpvc/?username=harikishoreabbina&label=Profile%20Views&color=38BDF8&style=flat" alt="profile views"/>
+
 
 </div>
 
